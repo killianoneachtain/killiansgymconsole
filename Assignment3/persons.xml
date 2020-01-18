@@ -1,0 +1,121 @@
+<object-stream>
+  <list>
+    <PremiumMember>
+      <name>Homer Simpson</name>
+      <email>homer@simpson.com</email>
+      <address>1597 Evergreen Terrace, Springfield, USA</address>
+      <gender>M</gender>
+      <height>1.75</height>
+      <startWeight>123.86</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <user>p</user>
+      <assessmentMap>
+        <entry>
+          <string>12/03/16</string>
+          <Assessment>
+            <weight>98.55</weight>
+            <thigh>0.56</thigh>
+            <waist>0.85</waist>
+            <comment>Keep on going.</comment>
+            <trainer>
+              <email>bart@simpson.com</email>
+              <name>Bart Simpson</name>
+              <address>1597 Evergreen Terrace, Springfield, USA</address>
+              <gender>M</gender>
+              <specialty>Thai Boxing</specialty>
+            </trainer>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>12/02/15</string>
+          <Assessment>
+            <weight>91.55</weight>
+            <thigh>0.56</thigh>
+            <waist>0.85</waist>
+            <comment>Great JOB</comment>
+            <trainer>
+              <email>lisa@simpson.com</email>
+              <name>Lisa Simpson</name>
+              <address>1597 Evergreen Terrace, Springfield, USA</address>
+              <gender>F</gender>
+              <specialty>Pilates</specialty>
+            </trainer>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>12/12/17</string>
+          <Assessment>
+            <weight>95.55</weight>
+            <thigh>0.56</thigh>
+            <waist>0.85</waist>
+            <comment>Keep training, my friend.</comment>
+            <trainer>
+              <email>lisa@simpson.com</email>
+              <name>Lisa Simpson</name>
+              <address>1597 Evergreen Terrace, Springfield, USA</address>
+              <gender>F</gender>
+              <specialty>Pilates</specialty>
+            </trainer>
+          </Assessment>
+        </entry>
+      </assessmentMap>
+    </PremiumMember>
+    <StudentMember>
+      <name>Marge Simpson</name>
+      <email>marge@simpson.com</email>
+      <address>1597 Evergreen Terrace, Springfield, USA</address>
+      <gender>F</gender>
+      <height>1.81</height>
+      <startWeight>65.87</startWeight>
+      <chosenPackage>Package 3</chosenPackage>
+      <user>s</user>
+      <studentId>20023634</studentId>
+      <collegeName>WIT</collegeName>
+      <assessmentMap>
+        <entry>
+          <string>12/03/18</string>
+          <Assessment>
+            <weight>69.55</weight>
+            <thigh>0.76</thigh>
+            <waist>0.77</waist>
+            <comment>Oh Marge...</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>12/02/18</string>
+          <Assessment>
+            <weight>65.55</weight>
+            <thigh>0.86</thigh>
+            <waist>0.67</waist>
+            <comment>You Go Marge!!</comment>
+          </Assessment>
+        </entry>
+      </assessmentMap>
+    </StudentMember>
+  </list>
+  <list>
+    <Trainer>
+      <name>Bart Simpson</name>
+      <email>bart@simpson.com</email>
+      <address>1597 Evergreen Terrace, Springfield, USA</address>
+      <gender>M</gender>
+      <specialty>Thai Boxing</specialty>
+    </Trainer>
+    <Trainer>
+      <name>Lisa Simpson</name>
+      <email>lisa@simpson.com</email>
+      <address>1597 Evergreen Terrace, Springfield, USA</address>
+      <gender>F</gender>
+      <specialty>Pilates</specialty>
+    </Trainer>
+  </list>
+  <list>
+    <Assessment>
+      <weight>95.55</weight>
+      <thigh>0.56</thigh>
+      <waist>0.85</waist>
+      <comment>Keep training, my friend.</comment>
+      <trainer>Lisa Simpson</trainer>
+    </Assessment>
+  </list>
+</object-stream>
