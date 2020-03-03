@@ -1,5 +1,9 @@
 # Gym Management Application
-Console based application for Input and Output of member and trainer data for a Gym
+Console based application for Input and Output of member and trainer data for a Gym.
+
+Users can track body measurements, Body Mass Index, and Ideal Weight using their height, weight and age values.
+
+Trainers can add comment on assessments of users.
 
 Developed using IntelliJ IDEA by Jet Brains.
 
